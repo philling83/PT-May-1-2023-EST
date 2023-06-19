@@ -15,10 +15,10 @@ const test1 = new Test();
 // test1Func(); // false
 
 // // Calling the method as a callback
-// setTimeout(test1.testFunc, 1000); // 
+// setTimeout(test1.testFunc, 1000); // Timeout obj
 
 // Using this in Function Declaration Syntax
 function someFunc() {
     console.log(this);
 }
-someFunc(); // 
+someFunc(); // Global obj

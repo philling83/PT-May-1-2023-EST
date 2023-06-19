@@ -1,11 +1,10 @@
 # M2W2D1
 
-## Context Readings, Quiz (40m)
-  - Context (objectives)
-  - Context (reading)
-  - Context in Regular Functions Quiz (quiz)
+## Scope vs Context
 
----
+- Scope refers to the visibility and availability of variables
+
+- Context refers to the value of the `this` keyword (how/where the function is invoked)
 
 ## Context
 ### Context refers to the value of `this` within a function and `this` refers to where a function is invoked.

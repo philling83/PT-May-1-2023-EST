@@ -31,8 +31,6 @@ test1Func(); //
 
 // Calling the method as a callback
 setTimeout(test1.testFunc, 1000); // 
-const arr = ["test",  "array"]
-arr.map(test1.testFunc) // 
 
 // Using this in Function Declaration Syntax
 function someFunc() {

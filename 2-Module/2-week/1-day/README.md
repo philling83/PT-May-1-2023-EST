@@ -1,5 +1,11 @@
 # M2W2D1
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/Zpn2xx5tkJq5eDp8GMlMFbmyA3-M3dVOvYfSjZLaOIRQnnK9pNNFxnirOr08EDMM.XKysIUozURRsM8Uz)
+<br />
+Passcode: *C+Cr99b
+
+---
+
 ## Scope vs Context
 
 - Scope refers to the visibility and availability of variables

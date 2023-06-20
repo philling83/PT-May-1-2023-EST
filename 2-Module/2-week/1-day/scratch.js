@@ -1,6 +1,6 @@
 class Test {
     testFunc() {
-        console.log(this);
+        console.log("this value: ", this);
         console.log(`this is equal to test1: ${this === test1}`);
     }
 }

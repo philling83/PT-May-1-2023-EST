@@ -1,5 +1,11 @@
 # M2W2D2
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/4RIbPYnx0H7HfY5Dc8rvLohMvt1i5-sRn9l-M26oeeFIPgw7llL4LhpKLFU3EUCM.ZyuJ4sr8GufF4LNs)
+<br />
+Passcode: XPvG@V1%
+
+---
+
 ## [Bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
 
 - the `bind()` function is used to make a function that, no matter how it is called, is called with a particular `this` value

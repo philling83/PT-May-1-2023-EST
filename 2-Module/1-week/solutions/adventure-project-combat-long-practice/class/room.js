@@ -44,9 +44,7 @@ class Room {
     }
 
     getItemByName(name) {
-        // Retrieves an item from a room by item name
 
-        //!!START
         for (let i = 0 ; i < this.items.length ; i++) {
             let item = this.items[i];
             if (item.name.toLowerCase().startsWith(name)) {
@@ -55,7 +53,6 @@ class Room {
         }
 
         console.log("Item not found");
-        //!!END
     }
 
 }

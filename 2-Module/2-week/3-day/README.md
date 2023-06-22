@@ -1,5 +1,11 @@
 # M2W2D3
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/w5Cc1493h0K-1iuLLFe01-6KznGM1xDmmNUJ6Z_fWWuLYOCXZEsMp40bhv6pbsFy.KDQdS9aFCWyOv-AZ)
+<br />
+Passcode: nUX4KCb&
+
+---
+
 ## Error Handling and TDD
 
 ### Error Handling

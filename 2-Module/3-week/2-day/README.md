@@ -264,17 +264,17 @@ If space is an issue, this may be the way to go when you are dealing with large 
 
 - Some questions...
   - Why can't we effectively use 'time' to test the efficiency of our code?
-    - answer
+    - Inconsistent, machine dependent
   - What is Big-O notation concerned with?
     - Best, average or worst case?
-      - answer
+      - Worst
     - Specific tests run or general trend of many tests run?
-      - answer
+      - General
     - Tests with similar sizes, or tests with different sizes?
-      - answer
+      - Different sizes
     - What are the three complexities we read about?
-      - answer
-      - answer
-      - answer
+      - O(1)   Constant
+      - O(n)   Linear
+      - O(n^2) Quadratic
     - So... what is Big-O?
-      - answer
+      - describes the performance of an algorithm / function as the amount of data increases

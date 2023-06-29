@@ -1,5 +1,9 @@
 # M2W3D3
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/uT5DZaNpN2azl0jYEgNjmdDa4yx43Z9hiLQQDVGSAFXYgM5gmkie-wJgOVEJJSxg.PQH7hzEtI18_aePP)
+<br />
+Passcode: 7Peq@FfR
+
 ## Binary Logic
 
 <img src="https://i.ibb.co/sPqcd8D/control-Flow-Input-CPURAMOutput.png" ref='flow' width="500" />

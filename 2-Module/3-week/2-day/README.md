@@ -1,5 +1,11 @@
 # `M2W3D2`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/crnoHgkLg-ChmcwgBnsAne2lIaSp6p2zJtW_Z8sh366XbLb4ZNdf76FAGQ-4kULf.v360TMCzQ_TskoG7)
+<br />
+Passcode: ?fdum747
+
+---
+
 ## Time and Space Complexity
 
 Big O Notation is a mathemetical notation that describes the time and space complexity of a function.

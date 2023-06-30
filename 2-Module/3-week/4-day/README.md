@@ -1,5 +1,9 @@
 # M2W3D4
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/dj-6w6O51mBAU8XVi1ary36MUER9P4xJEqyUrgx3ERzT-ohtioAkyniBsrizOSCS.nuls6C4mzOpXiE17)
+<br />
+Passcode: V98?QJ^P
+
 ## Memory
 
 ### RAM

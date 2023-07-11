@@ -1,5 +1,11 @@
 # `M2W4D1`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/GO6uJvUB1S6tcgV4wzI0u7RhUSN_W2HByOIG7urTwvJU9ni2Y4XeFKGEO1IF1tm_.c3Y9BAUWMpqDIj70)
+<br />
+Passcode: K#0p*oy8
+
+---
+
 ## Linked Lists
 
 Linked Lists are data structures that represent a linear sequence of "nodes"

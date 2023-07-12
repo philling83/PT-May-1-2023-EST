@@ -79,5 +79,7 @@ that would be hard, near impossible to crack.
 - SHA256
 - MD5
 - A lot more
+<br />
 
+![hashing](./hashing.png)
 ---

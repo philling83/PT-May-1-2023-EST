@@ -1,5 +1,11 @@
 # `M2W4D3`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/uTjCkkJLX_1wc6VNWWMbBEtnAOqSmoW2BIcp0CkcxXgpj2ZwosIie-BNkyGu4Xv6.Gg-ryJ6kERlsfbnM)
+<br />
+Passcode: UA2sQK&9
+
+---
+
 ## Warmup Problem
 
 Implement a queue using a linked list instead of an array. Adding and removing elements from the queue should have constant time complexity O(1).

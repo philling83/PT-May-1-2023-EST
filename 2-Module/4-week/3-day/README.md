@@ -69,7 +69,7 @@ const hashIt = (word) => {
     }, 0);
   };
 
-  console.log(hashIt('Jorge'))
+  console.log(hashIt('Alan'))
 ```
 
 Not great, that's why we have some better hashing algorithms out there.

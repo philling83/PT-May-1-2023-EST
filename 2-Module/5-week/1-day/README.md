@@ -1,5 +1,11 @@
 # M2W5D1
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/9VhRw5CVLfhZU3LRPt3nMQjvw9BBkpO6ZoH_RMgnQZiGAHPTo0A5xh2sxRnIKDhE.9DcYfpwN4Gs3bwuh)
+<br />
+Passcode: 3&?W5hfX
+
+---
+
 ## Logarithms & Binary Search
 
 ### Readings (15m)

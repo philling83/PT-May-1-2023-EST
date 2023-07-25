@@ -1,5 +1,11 @@
 # M2W6D1
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/zeYimDMi7NiN0djAvM6olQ7FUFwsphXjLs_auDzBoKDtffwOKZSIulC76wbNUFI0.CJayt8I_6lkxvfSj)
+<br />
+Passcode: 61=gdB&P
+
+---
+
 ## [Array.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
 - [TimSort](https://dev.to/jennieji/tim-sort-the-fastest-sort-used-in-v8-and-python-5e76)

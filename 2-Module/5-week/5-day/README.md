@@ -1,5 +1,11 @@
 # `M2W5D5`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/TRDDy-So5BrF8GueKdVcJ2EGRVelasbRcKG2Fa34JFwU0E0otuKmm-0750IfMlT2.i_vgedb5lufIYPGj)
+<br />
+Passcode: k@&FnMY7
+
+---
+
 ## `Sorting`
 
 There are a large number of sorting algorithms to choose from, each with it's own strengths and weaknesses. We are going to focus on the following sorting algorithms:

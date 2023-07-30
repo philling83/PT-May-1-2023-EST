@@ -1,5 +1,11 @@
 # Weeks 11 + 12 Study Guide
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/b2_BStDJUM12AY2KsKfIuvOEzK6hQFSHmMLrxFTzRsuGinP4UHRiPz7T0vOho7qt.WiyprWUXtOkeCXlQ)
+<br />
+Passcode: 9wj^R4Ah
+
+---
+
 - Binary search concepts (arrays + trees)
 - Trees: Binary vs Binary Search vs Traversal
 - Different tree traversals: BFS, DFS (using queue, stack, inorder, preorder, postorder), etc.

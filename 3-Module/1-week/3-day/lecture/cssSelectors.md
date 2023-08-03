@@ -204,7 +204,7 @@ These select 'pseudo' `elements` in the DOM. The 2 most common are `::after` and
 ```css
 p::before {
     background-color: lightblue;
-    border-right: 4px sol`id` violet;
+    border-right: 4px solid violet;
     content: ':-) ';
     margin-right: 4px;
     padding-left: 4px;

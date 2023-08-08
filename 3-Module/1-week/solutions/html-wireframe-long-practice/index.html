@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./site.css">
+  <!-- Add code to use the new-window icon here  -->
+  <!--!!START SILENT -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+  <!--!!END -->
+  <title>Home Page</title>
+</head>
+
+<!--!!START -->
+<!-- Phase 1 Solution: Creating individual HTML elements -->
+<!-- Some students may apply wrappers around elements at this stage,
+  and that is fine. Phase 1 tests should pass with or without wrappers. -->
+
+<!-- <body>
+  <a href="#">home</a>
+  <ul>
+    <li><a href="#">Sign in</a></li>
+    <li><a href="#"><button>Get started</button></a></li>
+  </ul>
+  <ul>
+    <li><a href="#">text</a></li>
+    <li><a href="#">text</a></li>
+    <li><a href="#">text</a></li>
+    <li><a href="#">text</a></li>
+    <li><a href="#">text</a></li>
+    <li><a href="#">text</a></li>
+  </ul>
+  <h1>Lorem ipsum dolor: sit amet, consectetur adipiscing elit, sed do</h1>
+  <img src="">
+  <p>
+    Vestibulum ultrices pulvinar condimentum. Vestibulum eget sapien in augue facilisis dictum. Nunc rutrum sem quis
+    lacus
+    finibus, euismod consequat massa fermentum. In bibendum, ex eget efficitur dignissim, ipsum diam vehicula dolor,
+    ut
+    euismod nisi ipsum ut metus.
+  </p>
+  <h2>heading</h2>
+  <p>
+    Suspendisse hendrerit lacus neque, tincidunt volutpat arcu maximus in. Duis consectetur tortor pharetra diam
+    finibus,
+    ullamcorper vestibulum neque sollicitudin. Aliquam nec fringilla magna.
+  </p>
+  <h2>heading</h2>
+  <p>
+    Mauris at nunc at tellus posuere varius. Mauris porta, nunc quis ultricies pulvinar, mauris sapien volutpat ante,
+    ut
+    ullamcorper libero dui in dui. Proin vel lacinia felis, nec consectetur lacus.
+  </p>
+    <h3>more articles:</h3>
+    <ul>
+      <li>
+        <a href="#">
+          Lorem ipsum dolor sit amet
+          <span class="material-icons-outlined">
+            open_in_new
+          </span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          Dictumst vestibulum rhoncus
+          <span class="material-icons-outlined">
+            open_in_new
+          </span>
+        </a>
+      </li>
+    </ul>
+  <div>
+    home icon
+  </div>
+  <ul>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Help</a></li>
+  </ul>
+</body> -->
+
+
+
+<!-- Phase 2 Solution: Grouping elements with non-semantic wrappers -->
+<!-- Phase 1 tests should still pass at this stage. -->
+
+<!-- <body>
+  <div id="header">
+      <a href="#">home</a>
+      <ul>
+        <li><a href="#">Sign in</a></li>
+        <li><a href="#"><button>Get started</button></a></li>
+      </ul>
+      <ul>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+      </ul>
+  </div>
+  <div id="title">
+    <h1>Lorem ipsum dolor: sit amet, consectetur adipiscing elit, sed do</h1>
+    <img src="">
+    <p>
+      Vestibulum ultrices pulvinar condimentum. Vestibulum eget sapien in augue facilisis dictum. Nunc rutrum sem quis
+      lacus
+      finibus, euismod consequat massa fermentum. In bibendum, ex eget efficitur dignissim, ipsum diam vehicula dolor,
+      ut
+      euismod nisi ipsum ut metus.
+    </p>
+    </div>
+    <div class="article" id="article-1">
+      <h2>heading</h2>
+      <p>
+        Suspendisse hendrerit lacus neque, tincidunt volutpat arcu maximus in. Duis consectetur tortor pharetra diam
+        finibus,
+        ullamcorper vestibulum neque sollicitudin. Aliquam nec fringilla magna.
+      </p>
+    </div>
+    <div class="article" id="article-2">
+      <h2>heading</h2>
+      <p>
+        Mauris at nunc at tellus posuere varius. Mauris porta, nunc quis ultricies pulvinar, mauris sapien volutpat ante,
+        ut
+        ullamcorper libero dui in dui. Proin vel lacinia felis, nec consectetur lacus.
+      </p>
+    </div>
+    <div class="external-links">
+      <h3>more articles:</h3>
+      <ul>
+        <li>
+          <a href="#">
+            Lorem ipsum dolor sit amet
+            <span class="material-icons-outlined">
+              open_in_new
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            Dictumst vestibulum rhoncus
+            <span class="material-icons-outlined">
+              open_in_new
+            </span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div id="footer">
+    <div>
+      home icon
+    </div>
+    <ul>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Help</a></li>
+    </ul>
+  </div>
+</body> -->
+
+
+
+<!-- Phase 3 Solution: Refactoring to use semantic HTML wrappers -->
+<!-- Phase 1 tests should still pass at this stage. Phase 2 tests are not expected to pass. -->
+
+<body>
+  <header>
+    <a href="#">home</a>
+    <ul>
+      <li><a href="#">Sign in</a></li>
+      <li><a href="#"><button>Get started</button></a></li>
+    </ul>
+    <nav>
+      <ul>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+        <li><a href="#">text</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h1>Lorem ipsum dolor: sit amet, consectetur adipiscing elit, sed do</h1>
+      <img src="">
+      <p>
+        Vestibulum ultrices pulvinar condimentum. Vestibulum eget sapien in augue facilisis dictum. Nunc rutrum sem quis
+        lacus
+        finibus, euismod consequat massa fermentum. In bibendum, ex eget efficitur dignissim, ipsum diam vehicula dolor,
+        ut
+        euismod nisi ipsum ut metus.
+      </p>
+    </section>
+      <article>
+        <h2>heading</h2>
+        <p>
+          Suspendisse hendrerit lacus neque, tincidunt volutpat arcu maximus in. Duis consectetur tortor pharetra diam
+          finibus,
+          ullamcorper vestibulum neque sollicitudin. Aliquam nec fringilla magna.
+        </p>
+      </article>
+      <article>
+        <h2>heading</h2>
+        <p>
+          Mauris at nunc at tellus posuere varius. Mauris porta, nunc quis ultricies pulvinar, mauris sapien volutpat ante,
+          ut
+          ullamcorper libero dui in dui. Proin vel lacinia felis, nec consectetur lacus.
+        </p>
+      </article>
+      <aside>
+        <h3>more articles:</h3>
+        <ul>
+          <li>
+            <a href="#">
+              Lorem ipsum dolor sit amet
+              <span class="material-icons-outlined">
+                open_in_new
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              Dictumst vestibulum rhoncus
+              <span class="material-icons-outlined">
+                open_in_new
+              </span>
+            </a>
+          </li>
+        </ul>
+      </aside>
+  </main>
+  <footer>
+    <div>
+      home icon
+    </div>
+    <ul>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Help</a></li>
+    </ul>
+  </footer>
+</body>
+<!--!!END -->
+</html>

@@ -1,5 +1,11 @@
 # `M3W3D2`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/jzRWoKIZwpeFL8Z2GdorGM4IWTyJtk5imDB7TNZCcXf8b0agXCl1ycMUj3UOlYE.IeBwWW5bOwWZPWDO)
+<br />
+Passcode: VdNu5#^u
+
+---
+
 This week we will be learning about `HTTP`, `REST`, and `Servers`!
 
 - **`HTTP`**: A protocol for fetching resources. The foundation of any data exchange on the web.

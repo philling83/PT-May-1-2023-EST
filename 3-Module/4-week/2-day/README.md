@@ -1,3 +1,6 @@
+# Recording
+https://us02web.zoom.us/rec/share/2JrQc8Azoa_NH3fWXgaKEXwNa7_A6fb9v5igcugC55lXygbXzmouU6XoOS-UZaIn.0V9S7gpsW-dovMzW
+Passcode: =.4+MvV+
 # Fetch
 - At a high level, fetch is used to make HTTP requests on the browser. It uses Promises to handle the asynchronous nature of HTTP requests and responses. fetch is used to formulate and send a request to a server and read the server response.
 

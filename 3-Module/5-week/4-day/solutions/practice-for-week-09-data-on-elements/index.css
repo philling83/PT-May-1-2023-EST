@@ -1,0 +1,45 @@
+li {
+    list-style-type: none;
+    width: 33%;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+}
+
+/* Your code here */
+
+[data-type="dairy"]{
+    background-color: bisque;
+}
+
+[data-type="drinks"]{
+    background-color: blue;
+}
+
+[data-type="canned foods"]{
+    background-color: brown;
+}
+
+[data-type="frozen"]{
+    background-color: skyblue;
+}
+
+[data-type="meats"]{
+    background-color: red;
+}
+
+[data-type="produce"]{
+    background-color: green;
+}
+
+[data-type="toiletries"]{
+    background-color: blueviolet;
+}
+
+[data-type="other"]{
+    background-color: chocolate;
+}
+
+[data-type="bakery"]{
+    background-color: yellow;
+}

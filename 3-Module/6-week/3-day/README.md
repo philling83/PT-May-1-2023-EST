@@ -19,11 +19,6 @@ time.
 - Which pages has the user viewed most recently
 - What does this user commonly search for
 
-Local Storage is a way to store data in key value pairs with no
-expiration data and can persist from page to page
-
-Cookies are a small size file stored on a user's computer that is lost once the browser window is closed and can be used to store session information when a user logs in
-
 Main difference, localStorage doesn't communicate with the server while cookies do. (You'll learn how to do it in mod 4).
 
 The server would be the place to store user selected styles if logging in from different devices as cookies and local storage depend on a

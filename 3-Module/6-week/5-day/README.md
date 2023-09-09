@@ -56,9 +56,9 @@ IPv6=`::1`
 The all interfaces address catches all incoming requests regardless of the
 destination, again specific to the local machine.
 
-IPv4=`0.0.0l0`
+IPv4=`0.0.0.0`
 
-IPv6=`::0`
+IPv6=`::`
 
 ---
 

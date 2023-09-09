@@ -2,7 +2,7 @@
 
 ## Networking
 
-Networking part-1 is on week 16 homework for Saturday. (IP, TCP/UDP)
+Networking part-1 is on week 16 homework for Thurs. (IP, TCP/UDP)
 
 ### Recap
 

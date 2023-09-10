@@ -1,5 +1,11 @@
 # `M3W6D5`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/WKgtBKncqtDEz6Ro7oOcR8We1R_AJfcZcYVK0OGeq8Tfzop2pOH5sE2FUSQU2x9y.niqUBN-Nlk6BJNFO)
+<br />
+Passcode: Xxu*SK5z
+
+---
+
 ## Networking
 
 Networking part-1 is on week 16 homework for Thurs. (IP, TCP/UDP)
